@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OKULDB", "OKULDB\OKULDB.csproj", "{30819386-B1A7-4610-85B1-936FF4E5986B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30819386-B1A7-4610-85B1-936FF4E5986B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30819386-B1A7-4610-85B1-936FF4E5986B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30819386-B1A7-4610-85B1-936FF4E5986B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30819386-B1A7-4610-85B1-936FF4E5986B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5847DAE8-5850-43E4-96AF-4482A31EB8C5}
+	EndGlobalSection
+EndGlobal

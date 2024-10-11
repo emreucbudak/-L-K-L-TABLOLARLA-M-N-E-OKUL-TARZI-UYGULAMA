@@ -1,0 +1,13 @@
+C:\Users\gamee\source\repos\OKULDB\OKULDB\bin\Debug\OKULDB.exe.config
+C:\Users\gamee\source\repos\OKULDB\OKULDB\bin\Debug\OKULDB.exe
+C:\Users\gamee\source\repos\OKULDB\OKULDB\bin\Debug\OKULDB.pdb
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.csproj.AssemblyReference.cache
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.Form1.resources
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.Form2.resources
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.Properties.Resources.resources
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.csproj.GenerateResource.cache
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.csproj.CoreCompileInputs.cache
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.exe
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.pdb
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.Form3.resources
+C:\Users\gamee\source\repos\OKULDB\OKULDB\obj\Debug\OKULDB.Form4.resources
